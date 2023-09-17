@@ -1,6 +1,26 @@
 # Easy_shopping_shop
 간단한 쇼핑몰
 
+## Stack
+- FE
+  - HTML
+  - CSS
+  - Bootstrap
+- BE
+  - Java
+    - Framework
+      - Library
+        - starter-web
+        - Thymeleaf
+        - validation
+        - Data-jpa
+        - Hibernate
+        - Lombok
+        - H2
+        - queryDsl
+- DB
+  - H2
+
 ## 회원
 - 회원가입
 - 회원목록
